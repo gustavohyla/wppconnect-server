@@ -1,3 +1,5 @@
+console.log("Bot iniciado");
+
 const { create } = require('@wppconnect-team/wppconnect');
 
 create({
